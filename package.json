@@ -1,0 +1,17 @@
+{
+  "name": "playwright-codere",
+  "version": "1.0.0",
+  "description": "Playwright script that tests the login functionality of https://m.apuestas.codere.es/",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1",
+    "@types/dotenv": "^8.2.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
